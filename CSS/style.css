@@ -1,0 +1,26 @@
+html {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 16px;
+  line-height: 1.3;
+}
+
+header {
+  background-color: #f7cf9b;
+  color: brown;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(179, 135, 119);
+}
+
+aside {
+  background: #49332a;
+  padding: 10px;
+  width: 200px;
+  float: right;
+}
